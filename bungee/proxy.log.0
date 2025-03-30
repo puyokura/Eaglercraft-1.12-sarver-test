@@ -140,3 +140,12 @@
 11:13:12 [INFO] Listening on /127.0.0.1:25577
 11:13:13 [INFO] [EaglercraftXBungee] Loaded certificate: /workspace/Eaglercraft-1.12-sarver-test/bungee/plugins/EaglercraftXBungee/eagcert/$dl.ac3aaed1273ced06ef766ab055337fbf29dc3347.cert
 11:13:13 [INFO] [EaglercraftXBungee] Loaded certificate: /workspace/Eaglercraft-1.12-sarver-test/bungee/plugins/EaglercraftXBungee/eagcert/$dl.ba375b9add3c01ca11899be958188189a3885a59.cert
+11:16:50 [WARNING] [EaglercraftXBungee] Server icon is not a file: /workspace/Eaglercraft-1.12-sarver-test/bungee/server-icon.png
+11:16:52 [INFO] [EaglercraftXBungee] [/192.168.172.203:48922]: Connected via websocket
+11:16:52 [INFO] [EaglercraftXBungee] [/192.168.172.203:48922]: Origin header is https://mc.gggame.f5.si
+11:16:52 [INFO] [EaglercraftXBungee] [/192.168.172.203:48922]: Logged in as 'puyokura'
+11:16:52 [INFO] [puyokura] -> UpstreamBridge has connected
+11:16:52 [INFO] [puyokura] <-> ServerConnector [lobby] has connected
+11:18:53 [INFO] [puyokura] disconnected with: §fTimed out
+11:18:53 [INFO] [puyokura] -> UpstreamBridge has disconnected
+11:18:53 [INFO] [puyokura] <-> DownstreamBridge <-> [lobby] has disconnected
